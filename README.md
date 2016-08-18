@@ -1,2 +1,2 @@
 # todolist
-meteorjs sample
+Educational meteorjs sample
